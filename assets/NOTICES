@@ -5318,9 +5318,11 @@ connectivity_plus
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
-connectivity_plus_macos
+connectivity_plus_linux
+connectivity_plus_platform_interface
+connectivity_plus_windows
 
-// Copyright 2019 The Chromium Authors. All rights reserved.
+// Copyright 2020 The Chromium Authors. All rights reserved.
 //
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted provided that the following conditions are
@@ -5349,9 +5351,9 @@ connectivity_plus_macos
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
-connectivity_plus_platform_interface
+connectivity_plus_macos
 
-// Copyright 2020 The Chromium Authors. All rights reserved.
+// Copyright 2019 The Chromium Authors. All rights reserved.
 //
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted provided that the following conditions are
@@ -8019,14 +8021,18 @@ flutter_lints
 path_provider
 path_provider_android
 path_provider_ios
+path_provider_linux
 path_provider_macos
 path_provider_platform_interface
+path_provider_windows
 plugin_platform_interface
 url_launcher
 url_launcher_android
 url_launcher_ios
+url_launcher_linux
 url_launcher_macos
 url_launcher_platform_interface
+url_launcher_windows
 xdg_directories
 
 Copyright 2013 The Flutter Authors. All rights reserved.
